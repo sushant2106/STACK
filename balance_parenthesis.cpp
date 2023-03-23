@@ -17,8 +17,7 @@ bool balance(string s){
                 {
                     st.pop();
                 }
-                else
-                   continue;
+      
               }
               else
                  return false;
